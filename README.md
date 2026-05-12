@@ -1,20 +1,21 @@
-# Hi, I'm Allan Zablon 👋
-## Software Engineer | Clinical AI & Data Systems Architect
+# Earl
 
-Building high-throughput, deterministic data infrastructure and clinical-grade AI solutions. Currently focused on high-fidelity synthetic health data and neuro-critical care AI at **Aga Khan University**.
+Clinical AI & Data Systems Architecture.
+
+Building high-throughput, deterministic data infrastructure and clinical-grade AI solutions. Focused on high-fidelity synthetic health data and neuro-critical care AI.
 
 ---
 
-### 🚀 Core Engineering Domains
+### Core Engineering Domains
 
-- **Clinical AI & NLP**: Architecting longitudinal EHR generation engines using `MedGemma` and `Unsloth` for adversarial PHI testing. (See: `synthetic_ehr`).
+- **Clinical AI & NLP**: Architecting longitudinal EHR generation engines using MedGemma and Unsloth for adversarial PHI testing. (See: `synthetic_ehr`).
 - **Data Engineering**: Implementing deterministic, hash-based identity spines (SHA-256) and temporal coherence models for institutional-scale synthetic databases.
 - **High-Stakes Clinical Systems**: Engineering neuro-ICU decision support systems (`icp-icu-advisor`) and sepsis detection pipelines for resource-constrained environments.
-- **Enterprise Product Development**: Delivering "State-of-the-Art" UI/UX and full-stack solutions for corporate intelligence and data management (`PryceAI`).
+- **Enterprise Product Development**: Delivering UI/UX and full-stack solutions for corporate intelligence and data management (`PryceAI`).
 
 ---
 
-### 🛠️ Technical Matrix
+### Technical Matrix
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -25,9 +26,8 @@ Building high-throughput, deterministic data infrastructure and clinical-grade A
 
 ---
 
-### 📫 Connect With Me
-- **Institutional**: Research & Development at [Aga Khan University](https://www.aku.edu)
-- **LinkedIn**: [Allan Zablon](https://www.linkedin.com/in/allanzablon/)
+### Connect
+
 - **Focus**: High-integrity data systems and Clinical AI.
 
 > "Data is only as valuable as the integrity of its generation."
